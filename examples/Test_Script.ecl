@@ -1,0 +1,1 @@
+output ('Welcome to PyHPCC');

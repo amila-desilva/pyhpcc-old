@@ -1,0 +1,17 @@
+README.md
+setup.py
+pyhpcc/ReadFileInfo.py
+pyhpcc/__errors.py
+pyhpcc/__init__.py
+pyhpcc/api.py
+pyhpcc/authentication.py
+pyhpcc/binder.py
+pyhpcc/roxie_api.py
+pyhpcc/utils.py
+pyhpcc/workunit_submit.py
+pyhpcc.egg-info/PKG-INFO
+pyhpcc.egg-info/SOURCES.txt
+pyhpcc.egg-info/dependency_links.txt
+pyhpcc.egg-info/not-zip-safe
+pyhpcc.egg-info/requires.txt
+pyhpcc.egg-info/top_level.txt

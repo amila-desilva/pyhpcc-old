@@ -1,0 +1,98 @@
+                        PyHPCC - PROJECT DOCUMENTATION
+                =============================================
+
+  CONTENTS
+-------------
+1. Introduction & Purpose
+
+2. Team
+
+3. Project Specifications
+  3.1 Features - HPCC & ECL
+  3.2 General Strategy
+
+4. Feature specific discussion
+  4.1
+  4.2
+  
+5. Conclusion
+
+
+================================================================================
+
+
+(1). INTRODUCTION & PURPOSE
+============================
+
+
+-------------------------------------------------------------------------------
+(2). TEAM
+==========
+
+
+-------------------------------------------------------------------------------
+(3). PROJECT SPECIFICATIONS
+============================
+ 3.1 Features - HPCC & ECL
+ -------------------------
+ 
+  3.1.1 - Get WorkUnit Info
+            Get Workunit Details
+            Get Workunit XML
+            Get Workunit Log
+            Get Workunit Output
+            Get Workunit Input
+            Get Workunit Timers
+            
+            
+  3.1.2 - Read/Create Logical Files
+            Filter Logical Files Using input fields
+            
+            
+  3.1.3 - Execute ECL Code/Attributes
+            - Create Workunit 
+            - Monitor Workunit progress
+            
+  3.1.4 Schedule Workunit
+            Using Luigi
+  
+  3.1.5 Spray/Despray files
+            
+
+-------------------------------------------------------------------------------  
+(4). FEATURE SPECIFIC DISCUSSION & SUGGESTIONS
+===============================================
+ 
+ 4.1 - WorkUnits
+                
+            (Procedure) / (Workarounds) / (Recommendations)
+            
+
+ 4.2 - Logical Files
+            
+            (Procedure) / (Workarounds) / (Recommendations)
+    
+            
+ 4.3 - SuperFiles
+    
+            (Procedure) / (Workarounds) / (Recommendations)
+            
+ 
+ ------------------------------------------------------------------------------
+ (5). CONCLUSION
+ ================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
